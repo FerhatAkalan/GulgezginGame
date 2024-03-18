@@ -1,2 +1,2 @@
 # GulgezginGame
- Gülgezgin Escape Game in Unity
+ Gulgezgin Escape Game in Unity
